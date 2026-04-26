@@ -1,0 +1,7 @@
+TransactionID,AccountID,TransactionAmount,TransactionDate,TransactionType,Location,Channel,CustomerAge,CustomerOccupation,TransactionDuration,LoginAttempts,AccountBalance,PreviousTransactionDate
+TEST0001,AC10001,249.75,2026-04-20 10:15:00,Debit,New York,Online,34,Engineer,42,1,5400.20,2026-04-19 22:30:00
+TEST0002,AC10002,5200.00,2026-04-21 01:05:00,Transfer,Houston,ATM,58,Doctor,9,4,2100.00,2026-04-20 23:55:00
+TEST0003,AC10003,,2026-04-21 14:40:00,Credit,Chicago,Branch,45,Teacher,28,2,8700.10,2026-04-20 13:10:00
+TEST0004,AC10004,899.99,invalid-date,Debit,San Diego,Online,,Analyst,17,3,0,2026-04-21 09:00:00
+TEST0005,AC10005,abc,2026-04-22 19:25:00,Transfer,Miami,Online,29,,12,,4300.50,
+TEST0006,AC10006,15000.00,2026-04-23 03:45:00,Debit,Seattle,ATM,67,Retired,6,5,1200.00,2026-04-22 20:10:00
