@@ -5,3 +5,4 @@ backend/uploads
 ml/models
 __pycache__
 *.pyc
+ml/venv/
